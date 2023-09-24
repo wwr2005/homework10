@@ -24,5 +24,6 @@ String upperCasedFullName = fullName.toUpperCase();
         fullName = "Иванов Семён Семёнович";
         String replacedFullName = fullName.replace(   "ё",  "е");
         System.out.println("Данные Ф. И. О. сотрудника — " + replacedFullName);
+
     }
 }
